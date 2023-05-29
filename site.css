@@ -1,0 +1,308 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bocuc{
+    width: 100%;
+    height:2000px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bocuc1{
+    width: 100%;
+    height: 135px;
+   
+}
+.b1{
+    width: 1300px;
+    height: 135px;
+    margin: 0px auto;
+    margin-top: 40px;
+  
+    display: flex;
+}
+.bocuc2{
+    width: 100%;
+    height: 250px;
+  
+}
+.b2{
+    width: 1300px;
+    height: 250px;
+    margin: 0px auto;
+   
+}
+.bocuc3{
+    width: 100%;
+    height: 470px;
+  
+    margin-top: 40px;
+}
+.b3{
+    width: 1300px;
+    height: 470px;
+    margin: 0px auto;
+    
+}
+.dophu{
+    background-color: rgba(0, 0, 0, 0.112);
+}
+.bocuc4{
+    width: 100%;
+    height: 900px;
+   
+    margin-top: 40px;
+}
+.b4{
+    width: 1300px;
+    height: 900px;
+    margin: 0px auto;
+    
+    display: flex;
+}
+.bocuc5{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(83, 83, 83);
+    margin-top: 50px;
+}
+.b5{
+    width: 1300px;
+    height: 300px;
+    margin: 0px auto;
+    background-color:rgb(83, 83, 83);
+    display: flex;
+}
+.bocuc6{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    
+}
+.b6{
+    width: 1300px;
+    height: 40px;
+    margin: 0px auto;
+    background-color: black;
+    display: flex;
+}
+.vb1{
+    display: flex;
+}
+.vb1 ul{
+    display: flex;
+    padding-left: 50px;
+}
+.vb1 ul li:hover{
+    background-color: aliceblue;
+}
+.vb1 ul li{
+    background-color: none;
+    padding: 10px;
+    margin:0  5px 0 0;
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+}
+.onhap input{
+   margin-left: 155px;
+    width: 350px;
+    height: 30px;
+}
+.vb2{
+    background-color: orange;
+    width: 1180px;
+    height: 60px;
+    margin-left: 15px;
+    margin-top: 10px;
+    display: flex;
+}
+.vb2 ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px;
+}
+.vb2 ul li{
+    background-color: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+    margin-top: 15px;
+    color: white;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.vb2 ul li:hover{
+    background-color: rgb(182, 186, 189);
+}
+.icon{
+    display: flex;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.anh2{
+    background-image: url(./images/msi-2019.jpg);
+    width: 530px;
+    height: 470px;
+    float: left;
+}
+.vb3{
+  
+    margin-top: 320px;
+    width: 420px;
+    font-size: 27px;
+    font-weight: 500;
+    padding-left: 15px;
+}
+.vb3 a{
+    text-decoration: none;
+    color: white;
+}
+.vb4{
+    color: white;
+    margin: 20px;
+}
+
+.anh3{
+  
+    float: right;
+    width: 765px;
+    height: 470px;
+}
+.anh4{
+   
+    width: 765px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.26);
+    
+}
+.anh4 img{
+    width: 765px;
+    height: 250px;
+}
+.text{
+   color: #fff;
+    position: absolute;
+    width: 640px;
+    font-size: 33px;
+    font-weight: 540;
+    padding-left: 20px;
+    margin-top: 170px;
+}
+.anh5{
+ 
+    width: 765px;
+    height: 210px;
+    margin-top: 10px;
+    display: flex;
+}
+.anh6 img{
+    width: 380px;
+    height: 210px;
+}
+.anh7 img{
+    width: 380px;
+    height: 210px;
+    margin-left: 5px;
+}
+.text1{
+    color: #fff;
+     position: absolute;
+     width: 300px;
+     font-size: 20px;
+     padding-left: 20px;
+     margin-top: 130px;
+     font-weight: 600;
+ }
+ .text2{
+    color: #fff;
+     position: absolute;
+     width: 300px;
+     font-size: 20px;
+     padding-left: 20px;
+     margin-top: 110px;
+     font-weight: 600;
+ }
+ .tintuc1{
+  
+    width: 800px;
+    height: 900px;
+}
+.gach{
+    display: flex;
+    margin-top: 6px;
+}
+.t1{
+    margin-top: 40px;
+    display: flex;
+}
+.vb5{
+    margin-left: 20px;
+    width: 500px;
+}
+
+.button1{
+   color: #b2adad;
+   border: #ccc8c8;
+
+}
+.button1:hover { 
+   
+       color: white;
+    }
+.o1{
+    margin-top: 40px;
+    margin-left: 400px;
+}
+.tintuc2{
+    
+    width: 420px;
+    height: 900px;
+    margin-left: 80px;
+}
+.vb6{
+    margin-top: 30px;
+    font-size: 17px;
+}
+.vb7{
+    margin-top: 20px;
+    font-size: 17px;
+}
+.anh8 img{
+    margin-top: 5px;
+    width: 420px;
+    height: 455px;
+}
+.vb8{
+    width: 700px;
+    height: 300px;
+}
+.kb{
+    width: 650px;
+    height: 300px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 40px;
+    color: white;
+}
+.vb9{
+    width: 600px;
+    height: 300px;
+   
+}
+.kb1{
+    margin-top: 50px;
+    color: white;
+    margin-left: 30px;
+}
+.icon1{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.vb10{
+    float: left;
+    margin-top: 10px;
+    color: white;
+}
